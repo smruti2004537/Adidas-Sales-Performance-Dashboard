@@ -1,10 +1,8 @@
 # 👟 Adidas Sales Performance Dashboard | Power BI
 
-![Adidas Sales Dashboard](Dashboard.png)
-
 ## 📑 Table of Contents
 
-- [Project Background](#project-background)
+- [Project Background](#Project-Background)
 - [Business Objectives](#business-objectives)
 - [Dataset Information](#dataset-information)
 - [Dashboard Features](#dashboard-features)
@@ -219,8 +217,6 @@ Analyze customer behavior in lower-performing regions to identify opportunities 
 
 # 📷 Dashboard Preview
 
-![Dashboard](Dashboard.png)
-
 ---
 
 # 👨‍💻 Author
@@ -230,6 +226,6 @@ Analyze customer behavior in lower-performing regions to identify opportunities 
 B.Tech, Mining Engineering  
 National Institute of Technology Rourkela
 
-**Aspiring Data Analyst**
+**Data Analyst**
 
-**Skills:** Power BI • SQL • Python • Excel
+**Skills:** Power BI • SQL • Python • Excel • Tableau
