@@ -11,7 +11,6 @@
 - [Business Recommendations](#business-recommendations)
 - [Tools & Technologies](#tools--technologies)
 - [Skills Demonstrated](#skills-demonstrated)
-- [Dashboard Preview](#dashboard-preview)
 - [Author](#author)
 
 ---
