@@ -214,11 +214,6 @@ Analyze customer behavior in lower-performing regions to identify opportunities 
 - Data Storytelling
 
 ---
-
-# 📷 Dashboard Preview
-
----
-
 # 👨‍💻 Author
 
 **Smruti Ranjan Samal**
